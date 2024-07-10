@@ -4,13 +4,6 @@
 
 A Health Care PLus System is a comprehensive software solution designed to streamline and automate hospital operations. It encompasses patient management, appointment scheduling, billing, electronic health records (EHR), inventory management, and reporting, enhancing overall healthcare efficiency and patient care.
 
-### Project Details
-
-- **Project Owner:** Muhammad Tahir
-- **Developer:** Usman Asghar
-- **Course Name:** Software Engineering
-- **Technology Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-
 ## Features
 
 ### 1. Patient Management
@@ -62,7 +55,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TahirRajpoot/HealthCarePlus_SE_Project.git
+git clone https://github.com/jatinsce21/Health-Care-Plus.git
 ```
 
 ### 2. Install Dependencies
